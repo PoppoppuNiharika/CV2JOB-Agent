@@ -1,0 +1,50 @@
+DATA ANALYST INTERN
+
+About the Role
+
+We are looking for a Data Analyst Intern to join our analytics team.
+The candidate will work with structured datasets, identify trends,
+create visualizations, and communicate insights.
+
+Required Skills
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Data Analysis
+- Data Visualization
+- Microsoft Excel
+- Power BI
+- Strong analytical and problem-solving skills
+
+Preferred Skills
+
+- Streamlit
+- Scikit-learn
+- Machine Learning
+- Git and GitHub
+
+Responsibilities
+
+- Analyze large datasets using Python and SQL.
+- Clean and preprocess data using Pandas and NumPy.
+- Build dashboards and visualizations using Power BI, Matplotlib,
+  or similar tools.
+- Identify trends and generate actionable insights.
+- Communicate analytical findings clearly.
+- Collaborate with team members on data projects.
+
+Education
+
+- Currently pursuing a Bachelor's degree in Computer Science,
+  Data Science, Statistics, Mathematics, or a related field.
+
+Experience
+
+- Previous internship or project experience in data analysis
+  is preferred.
+
+Location
+
+Hyderabad, India
